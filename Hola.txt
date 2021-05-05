@@ -1,9 +1,0 @@
-Hola este es un archivo para anotar novedades, quiza.
-
-Soy Stanley.
-
-Probablemente hable de mi y el proyecto.
-
-Note 1: hice mi primer commit y ahora estoy modificando el archivo para practicar.
-Note 2: Me gusta la musica instrumental.
-Note 3: soy estudiante.
