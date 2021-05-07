@@ -8,3 +8,5 @@ Note 1: hice mi primer commit y ahora estoy modificando el archivo para practica
 Note 2: Me gusta la musica instrumental.
 Note 3: soy estudiante.
 Note 4: esta es una nota de practica, no es relevante
+Dia 2
+Note 1: escucho musica lenta y vibrante, estoy usando git reset ahora. Anteriormente estaba aprendiendo de terminal y lines de comandos. Estoy motivado aun cuando tuve que empezar de nuevo, realmente me preocupa mi progreso, pero aun tengo tiempo.
